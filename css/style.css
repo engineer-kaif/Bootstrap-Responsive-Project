@@ -1,6 +1,6 @@
 .home{
     min-height: 100vh;
-    background: url(/Public/background\ image.jpg);
+    background: url("/Public/background\ image.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
